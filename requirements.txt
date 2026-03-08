@@ -1,0 +1,7 @@
+# RISC-V RV32I Assembler and Simulator
+# Python 3.10+
+
+# Testing
+pytest>=7.0.0
+
+# No other runtime dependencies; stdlib only for core functionality.

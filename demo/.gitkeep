@@ -1,0 +1,3 @@
+# Placeholder for demo/demo.gif — record a short demo of:
+#   python main.py assemble examples/program.asm examples/program.bin
+#   python main.py simulate examples/program.bin trace.txt
